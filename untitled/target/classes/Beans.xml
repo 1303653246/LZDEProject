@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<!--    <bean id="userService" class="springIOC.service.impl.UserServiceImpl" destroy-method="destory" init-method="init">-->
+<!--        <constructor-arg name="name" value="dasdasdasd"/>-->
+<!--        <property name="userDao" ref="userDao">-->
+
+<!--        </property>-->
+<!--    </bean>-->
+
+<!--    <bean id="userDao" class="springIOC.dao.IMPL.UserDaoImpl"/>-->
+
+    <bean id="userDao1" class="springIOC.MyBeanFactory1.MyFactory1" factory-method="userDao"/>
+</beans>

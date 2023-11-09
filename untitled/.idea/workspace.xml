@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e52eca9d-ca8e-4bd3-ae21-c2c6dfa5eb33" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../az/jdk1.8.0_144/jdk1.8.0_144/src.zip!/java/lang/Class.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../az/jdk1.8.0_144/jdk1.8.0_144/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../az/jdk1.8.0_144/jdk1.8.0_144/src.zip!/java/util/concurrent/CountDownLatch.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../az/jdk1.8.0_144/jdk1.8.0_144/src.zip!/java/util/concurrent/Executors.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../az/jdk1.8.0_144/jdk1.8.0_144/javafx-src.zip!/javafx/concurrent/Task.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.5.0\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../az/apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="D:\az\apache-maven-3.5.0\conf\settings_ali.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2PcjaI5OyGh980GVbJhtQCyJi9u" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="JUnit.test01.test04">
+    <configuration name="ZiXuanLock.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="juc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="juc" />
+      <option name="MAIN_CLASS_NAME" value="juc.ZiXuanLock" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test01.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Zzz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Zzz" />
+      <option name="MAIN_CLASS_NAME" value="Zzz.test01" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test01.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Zzz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Zzz" />
+      <option name="MAIN_CLASS_NAME" value="Zzz.test01" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test01.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Zzz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Zzz" />
+      <option name="MAIN_CLASS_NAME" value="Zzz.test01" />
+      <option name="METHOD_NAME" value="test03" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test01.test04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Zzz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Zzz" />
+      <option name="MAIN_CLASS_NAME" value="Zzz.test01" />
+      <option name="METHOD_NAME" value="test04" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.test01.test04" />
+        <item itemvalue="JUnit.test01.test03" />
+        <item itemvalue="JUnit.test01.test02" />
+        <item itemvalue="JUnit.ZiXuanLock.test" />
+        <item itemvalue="JUnit.test01.test01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e52eca9d-ca8e-4bd3-ae21-c2c6dfa5eb33" name="Changes" comment="" />
+      <created>1683763326297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683763326297</updated>
+      <workItem from="1683763329009" duration="2498000" />
+      <workItem from="1683768559599" duration="2010000" />
+      <workItem from="1683776207864" duration="682000" />
+      <workItem from="1683853108806" duration="1756000" />
+      <workItem from="1684111655512" duration="4414000" />
+      <workItem from="1684375577421" duration="6777000" />
+      <workItem from="1684490206630" duration="273000" />
+      <workItem from="1684806207045" duration="1675000" />
+      <workItem from="1684812224092" duration="9244000" />
+      <workItem from="1684899848219" duration="2886000" />
+      <workItem from="1685002393241" duration="1335000" />
+      <workItem from="1685668835380" duration="3603000" />
+      <workItem from="1686301203652" duration="1729000" />
+      <workItem from="1687746207842" duration="22000" />
+      <workItem from="1687845908670" duration="4750000" />
+      <workItem from="1688448996934" duration="13000" />
+      <workItem from="1688716521718" duration="21000" />
+      <workItem from="1689650791342" duration="130000" />
+      <workItem from="1689661110063" duration="2309000" />
+      <workItem from="1689667632770" duration="1606000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
